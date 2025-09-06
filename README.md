@@ -6,7 +6,7 @@ This is a Scrapy project designed to scrape book information from [books.toscrap
 * Goes to all the book categories on the site.
 * Clicks the "next" page button to get all the books.
 * Grabs the title, price, rating, etc. for each book.
-* Saves everything into an SQLite database file (books.db).
+* Saves everything into a SQLite database file.
 * Also saves the data to books_data.csv and books_data.json.
 * Downloads all the book cover images into the images folder.
 
@@ -24,7 +24,7 @@ This is a Scrapy project designed to scrape book information from [books.toscrap
     ```
 ### Running the Spider
 
-Run the commands from the project's root folder.
+Run the commands from the root 'bookscraper' folder.
 
 1. **Set up the database**
     Create the database and its table.
