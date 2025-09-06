@@ -24,7 +24,7 @@ This is a Scrapy project designed to scrape book information from [books.toscrap
     ```
 ### Running the Spider
 
-Run the commands from the project's root folder.
+Run the commands from the root 'bookscraper' folder.
 
 1. **Set up the database**
     Create the database and its table.
